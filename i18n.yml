@@ -24,3 +24,4 @@ i18n:
   degradedPerformance: "🟨 Rendimiento degradado"
   completeOutage: "🟥 Sin servicio"
   parcialOutage: "🟧 Interrupción parcial"
+  

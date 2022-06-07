@@ -40,10 +40,10 @@ i18n:
   IncidentCommentSummary: Publicado $DATE por $AUTHOR
   incidentBack: ← Volver a todos los incidentes
   pastIncidents: Incidentes pasados
-  pastIncidentsResolved: Resuelto en $MINUTOS minutos con $POSTS publicaciones
+  pastIncidentsResolved: Resuelto en $MINUTES minutos con $POSTS publicaciones
   liveStatus: Estado en vivo
   generalUptime: "Tiempo de actividad general: $UPTIME"
-  OverallUptimeTitle: Tiempo de actividad general
+  overallUptimeTitle: Tiempo de actividad general
   averageResponseTime: "Tiempo de respuesta promedio: $TIMEms"
   averageResponseTimeTitle: Respuesta promedio
   sevelDayResponseTime: Tiempo de respuesta 7 días
@@ -73,11 +73,11 @@ i18n:
   errorHome: Ir a la página de inicio
   pastScheduledMaintenance: Mantenimiento programado anterior
   ScheduledMaintenance: Mantenimiento programado
-  ScheduledMaintenanceSummaryStarted: Comenzó el $FECHA durante $DURACIÓN minutos
+  ScheduledMaintenanceSummaryStarted: Comenzó el $DATE durante $DURATION minutos
   ScheduledMaintenanceSummaryStarts: Comienza en $DATE por $DURATION minutos
   startedAt: Comenzó en
   startsAt: Comienza en
   duration: Duración
-  durationMin: $DURACIÓN minutos
+  durationMin: $DURATION minutos
   incidentCompleted: Completado
   incidentScheduled: Programado
