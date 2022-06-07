@@ -5,6 +5,26 @@ repo: statuspage # The name of this repository
 sites:
   - name: AXA
     url: https://axacolpatria.imedicalcloud.net/$SECRET_ENDPOINT_IMEDICAL
+  - name: Central
+    url: https://central.imedicalcloud.net/$SECRET_ENDPOINT_IMEDICAL
+  - name: Comfamiliar
+    url: https://comfamiliar.imedicalcloud.net/$SECRET_ENDPOINT_IMEDICAL
+  - name: Consultorios
+    url: https://consultorios.imedicalcloud.net/$SECRET_ENDPOINT_IMEDICAL
+  - name: IPS
+    url: https://ips.imedicalcloud.net/$SECRET_ENDPOINT_IMEDICAL
+  - name: Norte
+    url: https://norte.imedicalcloud.net/$SECRET_ENDPOINT_IMEDICAL
+  - name: OCC
+    url: https://occ.imedicalcloud.net/$SECRET_ENDPOINT_IMEDICAL
+  - name: Oriente
+    url: https://oriente.imedicalcloud.net/$SECRET_ENDPOINT_IMEDICAL
+  - name: Santa Ana
+    url: https://santaana.imedicalcloud.net/$SECRET_ENDPOINT_IMEDICAL
+  - name: Universidades
+    url: https://universidades.imedicalcloud.net/$SECRET_ENDPOINT_IMEDICAL
+  - name: Teleconsulta
+    url: $SECRET_TELEMEDICINE_ENDPOINT
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
