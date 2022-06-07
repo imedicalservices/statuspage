@@ -12,7 +12,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /statuspage
   logoUrl: https://avatars.githubusercontent.com/u/107059814
-  name: IMedical Estado de Servicios
+  name: iMedical Estado de Servicios
   introTitle: "**iMedical** plataforma de servicios de salud."
   introMessage: Esta página muestra en **tiempo real** el estado de los servicios de iMedical.
   navbar:
