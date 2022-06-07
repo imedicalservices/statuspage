@@ -1,5 +1,5 @@
 # Change these first
-owner: imedicalservices # Your GitHub organization or username, where this repository lives
+owner: Imedicalservices # Your GitHub organization or username, where this repository lives
 repo: statuspage # The name of this repository
 
 sites:
@@ -12,7 +12,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /statuspage
   logoUrl: https://avatars.githubusercontent.com/u/107059814
-  name: iMedical Estado de Servicios
+  name: IMedical Estado de Servicios
   introTitle: "**iMedical** plataforma de servicios de salud."
   introMessage: Esta página muestra en **tiempo real** el estado de los servicios de iMedical.
   navbar:
@@ -25,28 +25,59 @@ status-website:
 # See https://upptime.js.org/docs/configuration
 
 i18n:
-  URL: "URL"
-  estado: "Estado"
-  historia: "Historia"
-  tiempo de actividad: "Tiempo de actividad"
-  arriba: "🟩 Arriba"
-  degradado: "🟨 Degradado"
-  abajo: "🟥 Abajo"
-  responseTimeGraphAlt: "Gráfico de tiempo de respuesta"
-  ms: "ms"
-  responseTime: "Tiempo de respuesta"
-  responseTimeDay: "Tiempo de respuesta 24 horas"
-  responseTimeWeek: "Tiempo de respuesta 7 días"
-  responseTimeMonth: "Tiempo de respuesta 30 días"
-  responseTimeYear: "Tiempo de respuesta 1 año"
-  uptime: "Tiempo de actividad total"
-  uptimeDay: "tiempo de actividad 24 horas"
-  uptimeWeek: "tiempo de actividad 7 días"
-  uptimeMonth: "tiempo de actividad 30 días"
-  uptimeYear: "tiempo de actividad 1 año"
-  liveStatus: "Estado en vivo"
-  liveStatusHtmlComment: "<!--estado en vivo-->"
-  allSystemsOperational: "🟩 Todos los sistemas operativos"
-  degradedPerformance: "🟨 Rendimiento degradado"
-  completeOutage: "🟥 Sin servicio"
-  parcialOutage: "🟧 Interrupción parcial"
+  activeIncidents: Incidentes activos
+  allSystemsOperational: Todos los sistemas están operativos
+  incidentReport: "Incidente #$NUMBER informe →"
+  activeIncidentSummary: Abierto $DATE con $POSTS publicaciones
+  incidentTitle: Incidente $NUMBER Detalles
+  detalles del incidente: Detalles del incidente
+  incidenteCorregido: Corregido
+  incidenteEn curso: En curso
+  incidentOpenedAt: Abierto a
+  incidentClosedAt: Cerrado a
+  incidenteSuscribirse: Suscríbete a las actualizaciones
+  incidentViewOnGitHub: Ver en GitHub
+  IncidentCommentSummary: Publicado $DATE por $AUTHOR
+  incidenteVolver: ← Volver a todos los incidentes
+  pastIncidents: Incidentes pasados
+  pastIncidentsResolved: Resuelto en $MINUTOS minutos con $POSTS publicaciones
+  liveStatus: Estado en vivo
+  generalUptime: "Tiempo de actividad general: $UPTIME"
+  OverallUptimeTitle: Tiempo de actividad general
+  averageResponseTime: "Tiempo de respuesta promedio: $TIMEms"
+  averageResponseTimeTitle: Respuesta promedio
+  sevelDayResponseTime: Tiempo de respuesta 7 días
+  responseTimeMs: Tiempo de respuesta (ms)
+  up: Subir
+  down: Bajar
+  degradado: Degradado
+  ms: ms
+  cargando: Cargando
+  navGitHub: GitHub
+  pie de página: Hecho con ♥︎ por iMedical
+  rateLimitExceededTitle: Límite de tasa excedido
+  rateLimitExceededIntro: Ha superado el número de solicitudes que puede realizar en una hora, por lo que tendrá que esperar antes de volver a acceder a este sitio web. Alternativamente, puede agregar un token de acceso personal de GitHub para continuar usando este sitio web.
+  rateLimitExceededWhatDoesErrorMean: ¿Qué significa este error?
+  rateLimitExceededErrorSignificado: Este sitio web utiliza la API de GitHub para acceder a datos en tiempo real sobre el estado de nuestros sitios web. De manera predeterminada, GitHub permite que cada dirección IP realice 60 solicitudes por hora, las que ha consumido.
+  rateLimitExceededErrorHowCanFix: ¿Cómo puedo solucionarlo?
+  rateLimitExceededErrorFix: Puede esperar otra hora y se restablecerá el límite de su dirección IP. Como alternativa, puede agregar su token de acceso personal de GitHub, que le brinda 5000 solicitudes adicionales por hora.
+  rateLimitExceededGeneratePAT: Aprenda a generar un token de acceso personal
+  rateLimitExceededHasSet: Tiene un conjunto de tokens de acceso.
+  rateLimitExceededRemoveToken: Eliminar token
+  rateLimitExceededGitHubPAT: Token de acceso personal de GitHub
+  rateLimitExceededCopyPastePAT: Copie y pegue su token
+  rateLimitExceededSaveToken: Guardar token
+  errorTitle: Ocurrió un error
+  errorIntro: Se produjo un error al intentar obtener los últimos detalles de estado.
+  errorText: Puede volver a intentarlo en unos momentos.
+  errorHome: Ir a la página de inicio
+  pastScheduledMaintenance: Mantenimiento programado anterior
+  ScheduledMaintenance: Mantenimiento programado
+  ScheduledMaintenanceSummaryStarted: Comenzó el $FECHA durante $DURACIÓN minutos
+  ScheduledMaintenanceSummaryStarts: Comienza en $DATE por $DURATION minutos
+  comenzó en: Comenzó en
+  comienza en: Comienza en
+  duración: Duración
+  duraciónMin: $DURACIÓN minutos
+  incidenteCompleto: Completado
+  incidenteProgramado: Programado
