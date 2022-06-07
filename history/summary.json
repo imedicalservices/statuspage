@@ -1,7 +1,7 @@
 [
   {
     "name": "AXA",
-    "url": "https://axacolpatria.imedicalcloud.net/api/v1/healthz?token=3a9174fb-6e18-41c7-a53d-6d1ddf871819",
+    "url": "https://axacolpatria.imedicalcloud.net/$SECRET_ENDPOINT_IMEDICAL",
     "icon": "https://favicons.githubusercontent.com/axacolpatria.imedicalcloud.net",
     "slug": "axa",
     "status": "up",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 197,
-    "timeDay": 197,
-    "timeWeek": 197,
-    "timeMonth": 197,
-    "timeYear": 197,
+    "time": 190,
+    "timeDay": 190,
+    "timeWeek": 190,
+    "timeMonth": 190,
+    "timeYear": 190,
     "dailyMinutesDown": {}
   }
 ]
