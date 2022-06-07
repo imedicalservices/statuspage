@@ -30,15 +30,15 @@ i18n:
   incidentReport: "Incidente #$NUMBER informe →"
   activeIncidentSummary: Abierto $DATE con $POSTS publicaciones
   incidentTitle: Incidente $NUMBER Detalles
-  detalles del incidente: Detalles del incidente
-  incidenteCorregido: Corregido
-  incidenteEn curso: En curso
+  incidentDetails: Detalles del incidente
+  incidentFixed: Corregido
+  incidentOngoing: En curso
   incidentOpenedAt: Abierto a
   incidentClosedAt: Cerrado a
-  incidenteSuscribirse: Suscríbete a las actualizaciones
+  incidentSubscribe: Suscríbete a las actualizaciones
   incidentViewOnGitHub: Ver en GitHub
   IncidentCommentSummary: Publicado $DATE por $AUTHOR
-  incidenteVolver: ← Volver a todos los incidentes
+  incidentBack: ← Volver a todos los incidentes
   pastIncidents: Incidentes pasados
   pastIncidentsResolved: Resuelto en $MINUTOS minutos con $POSTS publicaciones
   liveStatus: Estado en vivo
@@ -50,15 +50,15 @@ i18n:
   responseTimeMs: Tiempo de respuesta (ms)
   up: Arriba
   down: Abajo
-  degradado: Degradado
+  degraded: Degradado
   ms: ms
-  cargando: Cargando
+  loading: Cargando
   navGitHub: GitHub
-  pie de página: Hecho con ♥︎ por iMedical
+  footer: Hecho con ♥︎ por iMedical
   rateLimitExceededTitle: Límite de tasa excedido
   rateLimitExceededIntro: Ha superado el número de solicitudes que puede realizar en una hora, por lo que tendrá que esperar antes de volver a acceder a este sitio web. Alternativamente, puede agregar un token de acceso personal de GitHub para continuar usando este sitio web.
   rateLimitExceededWhatDoesErrorMean: ¿Qué significa este error?
-  rateLimitExceededErrorSignificado: Este sitio web utiliza la API de GitHub para acceder a datos en tiempo real sobre el estado de nuestros sitios web. De manera predeterminada, GitHub permite que cada dirección IP realice 60 solicitudes por hora, las que ha consumido.
+  rateLimitExceededErrorMeaning: Este sitio web utiliza la API de GitHub para acceder a datos en tiempo real sobre el estado de nuestros sitios web. De manera predeterminada, GitHub permite que cada dirección IP realice 60 solicitudes por hora, las que ha consumido.
   rateLimitExceededErrorHowCanFix: ¿Cómo puedo solucionarlo?
   rateLimitExceededErrorFix: Puede esperar otra hora y se restablecerá el límite de su dirección IP. Como alternativa, puede agregar su token de acceso personal de GitHub, que le brinda 5000 solicitudes adicionales por hora.
   rateLimitExceededGeneratePAT: Aprenda a generar un token de acceso personal
@@ -75,9 +75,9 @@ i18n:
   ScheduledMaintenance: Mantenimiento programado
   ScheduledMaintenanceSummaryStarted: Comenzó el $FECHA durante $DURACIÓN minutos
   ScheduledMaintenanceSummaryStarts: Comienza en $DATE por $DURATION minutos
-  comenzó en: Comenzó en
-  comienza en: Comienza en
-  duración: Duración
-  duraciónMin: $DURACIÓN minutos
-  incidenteCompleto: Completado
-  incidenteProgramado: Programado
+  startedAt: Comenzó en
+  startsAt: Comienza en
+  duration: Duración
+  durationMin: $DURACIÓN minutos
+  incidentCompleted: Completado
+  incidentScheduled: Programado
