@@ -48,8 +48,8 @@ i18n:
   averageResponseTimeTitle: Respuesta promedio
   sevelDayResponseTime: Tiempo de respuesta 7 días
   responseTimeMs: Tiempo de respuesta (ms)
-  up: Subir
-  down: Bajar
+  up: Arriba
+  down: Abajo
   degradado: Degradado
   ms: ms
   cargando: Cargando
