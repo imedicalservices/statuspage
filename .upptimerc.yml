@@ -17,7 +17,7 @@ status-website:
   introMessage: Esta página muestra en **tiempo real** el estado de los servicios de iMedical.
   navbar:
     - title: Estado
-      href: /
+      href: /statuspage
     - title: Más información
       href: https://www.imedicalservices.com/
 
