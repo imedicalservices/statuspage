@@ -25,8 +25,10 @@ sites:
     url: https://universidades.imedicalcloud.net/$SECRET_ENDPOINT_IMEDICAL
   - name: Teleconsulta
     url: $SECRET_TELEMEDICINE_ENDPOINT
-
+ 
 status-website:
+  # Available themes are light, dark, night or ocean
+  theme: "ocean"
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
