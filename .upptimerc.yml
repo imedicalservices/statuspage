@@ -37,6 +37,7 @@ status-website:
   name: iMedical Estado de Servicios
   introTitle: "**iMedical** plataforma de servicios de salud."
   introMessage: Esta página muestra en **tiempo real** el estado de los servicios de iMedical.
+  favicon: https://uploads-ssl.webflow.com/60352ab441e1d3843727639b/6085bbb471f01d1415f10489_imedical_favicon_32px.png
   navbar:
     - title: Estado
       href: /
