@@ -31,15 +31,15 @@ status-website:
   theme: "ocean"
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /statuspage
+  cname: status.imedicalcloud.net
+  # baseUrl: /statuspage
   logoUrl: https://avatars.githubusercontent.com/u/107059814
   name: iMedical Estado de Servicios
   introTitle: "**iMedical** plataforma de servicios de salud."
   introMessage: Esta página muestra en **tiempo real** el estado de los servicios de iMedical.
   navbar:
     - title: Estado
-      href: /statuspage
+      href: /
     - title: Más información
       href: https://www.imedicalservices.com/
 
