@@ -130,19 +130,19 @@
     "url": "https://oriente.imedicalcloud.net/$SECRET_ENDPOINT_IMEDICAL",
     "icon": "https://favicons.githubusercontent.com/oriente.imedicalcloud.net",
     "slug": "oriente",
-    "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
-    "time": 158,
-    "timeDay": 200,
-    "timeWeek": 158,
-    "timeMonth": 158,
-    "timeYear": 158,
+    "status": "up",
+    "uptime": "98.60%",
+    "uptimeDay": "91.21%",
+    "uptimeWeek": "98.60%",
+    "uptimeMonth": "98.60%",
+    "uptimeYear": "98.60%",
+    "time": 157,
+    "timeDay": 180,
+    "timeWeek": 157,
+    "timeMonth": 157,
+    "timeYear": 157,
     "dailyMinutesDown": {
-      "2022-06-14": 13
+      "2022-06-14": 127
     }
   },
   {
