@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/axacolpatria.imedicalcloud.net",
     "slug": "axa",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.93%",
+    "uptimeDay": "98.22%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 161,
     "timeDay": 68,
     "timeWeek": 128,
     "timeMonth": 161,
     "timeYear": 161,
     "dailyMinutesDown": {
-      "2022-07-01": 0
+      "2022-07-01": 26
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://central.imedicalcloud.net/$SECRET_ENDPOINT_IMEDICAL",
     "icon": "https://favicons.githubusercontent.com/central.imedicalcloud.net",
     "slug": "central",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 151,
-    "timeDay": 39,
-    "timeWeek": 114,
-    "timeMonth": 151,
-    "timeYear": 151,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 173,
+    "timeDay": 300,
+    "timeWeek": 193,
+    "timeMonth": 173,
+    "timeYear": 173,
     "dailyMinutesDown": {
-      "2022-07-01": 0
+      "2022-07-01": 25
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://favicons.githubusercontent.com/comfamiliar.imedicalcloud.net",
     "slug": "comfamiliar",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.93%",
+    "uptimeDay": "98.23%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 154,
     "timeDay": 45,
     "timeWeek": 118,
     "timeMonth": 154,
     "timeYear": 154,
     "dailyMinutesDown": {
-      "2022-07-01": 0
+      "2022-07-01": 26
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://consultorios.imedicalcloud.net/$SECRET_ENDPOINT_IMEDICAL",
     "icon": "https://favicons.githubusercontent.com/consultorios.imedicalcloud.net",
     "slug": "consultorios",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 149,
-    "timeDay": 61,
-    "timeWeek": 130,
-    "timeMonth": 149,
-    "timeYear": 149,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 172,
+    "timeDay": 329,
+    "timeWeek": 211,
+    "timeMonth": 172,
+    "timeYear": 172,
     "dailyMinutesDown": {
-      "2022-07-01": 0
+      "2022-07-01": 25
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://ips.imedicalcloud.net/$SECRET_ENDPOINT_IMEDICAL",
     "icon": "https://favicons.githubusercontent.com/ips.imedicalcloud.net",
     "slug": "ips",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 134,
-    "timeDay": 60,
-    "timeWeek": 106,
-    "timeMonth": 134,
-    "timeYear": 134,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 145,
+    "timeDay": 205,
+    "timeWeek": 150,
+    "timeMonth": 145,
+    "timeYear": 145,
     "dailyMinutesDown": {
-      "2022-07-01": 0
+      "2022-07-01": 25
     }
   },
   {
@@ -104,19 +104,19 @@
     "url": "https://norte.imedicalcloud.net/$SECRET_ENDPOINT_IMEDICAL",
     "icon": "https://favicons.githubusercontent.com/norte.imedicalcloud.net",
     "slug": "norte",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 152,
-    "timeDay": 72,
-    "timeWeek": 128,
-    "timeMonth": 152,
-    "timeYear": 152,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 186,
+    "timeDay": 453,
+    "timeWeek": 249,
+    "timeMonth": 186,
+    "timeYear": 186,
     "dailyMinutesDown": {
-      "2022-07-01": 0
+      "2022-07-01": 25
     }
   },
   {
@@ -125,18 +125,18 @@
     "icon": "https://favicons.githubusercontent.com/occ.imedicalcloud.net",
     "slug": "occ",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.93%",
+    "uptimeDay": "98.23%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 132,
     "timeDay": 29,
     "timeWeek": 92,
     "timeMonth": 132,
     "timeYear": 132,
     "dailyMinutesDown": {
-      "2022-07-01": 0
+      "2022-07-01": 25
     }
   },
   {
@@ -144,19 +144,19 @@
     "url": "https://oriente.imedicalcloud.net/$SECRET_ENDPOINT_IMEDICAL",
     "icon": "https://favicons.githubusercontent.com/oriente.imedicalcloud.net",
     "slug": "oriente",
-    "status": "down",
-    "uptime": "99.63%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.63%",
-    "time": 138,
-    "timeDay": 36,
-    "timeWeek": 106,
-    "timeMonth": 138,
-    "timeYear": 138,
+    "status": "up",
+    "uptime": "99.56%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.56%",
+    "time": 152,
+    "timeDay": 226,
+    "timeWeek": 162,
+    "timeMonth": 152,
+    "timeYear": 152,
     "dailyMinutesDown": {
-      "2022-07-01": 0,
+      "2022-07-01": 25,
       "2022-06-14": 127
     }
   },
@@ -166,18 +166,18 @@
     "icon": "https://favicons.githubusercontent.com/santaana.imedicalcloud.net",
     "slug": "santa-ana",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.93%",
+    "uptimeDay": "98.24%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 130,
     "timeDay": 67,
     "timeWeek": 116,
     "timeMonth": 130,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2022-07-01": 0
+      "2022-07-01": 25
     }
   },
   {
@@ -185,19 +185,19 @@
     "url": "https://universidades.imedicalcloud.net/$SECRET_ENDPOINT_IMEDICAL",
     "icon": "https://favicons.githubusercontent.com/universidades.imedicalcloud.net",
     "slug": "universidades",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 139,
-    "timeDay": 34,
-    "timeWeek": 92,
-    "timeMonth": 139,
-    "timeYear": 139,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 162,
+    "timeDay": 306,
+    "timeWeek": 176,
+    "timeMonth": 162,
+    "timeYear": 162,
     "dailyMinutesDown": {
-      "2022-07-01": 0
+      "2022-07-01": 25
     }
   },
   {
