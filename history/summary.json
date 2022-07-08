@@ -10,11 +10,11 @@
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 156,
-    "timeDay": 62,
-    "timeWeek": 113,
-    "timeMonth": 156,
-    "timeYear": 156,
+    "time": 158,
+    "timeDay": 233,
+    "timeWeek": 127,
+    "timeMonth": 146,
+    "timeYear": 158,
     "dailyMinutesDown": {
       "2022-07-01": 40
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 164,
-    "timeDay": 97,
-    "timeWeek": 177,
-    "timeMonth": 164,
-    "timeYear": 164,
+    "time": 166,
+    "timeDay": 228,
+    "timeWeek": 198,
+    "timeMonth": 158,
+    "timeYear": 166,
     "dailyMinutesDown": {
       "2022-07-01": 25
     }
@@ -45,16 +45,16 @@
     "icon": "https://favicons.githubusercontent.com/comfamiliar.imedicalcloud.net",
     "slug": "comfamiliar",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 148,
-    "timeDay": 70,
-    "timeWeek": 103,
-    "timeMonth": 148,
-    "timeYear": 148,
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 151,
+    "timeDay": 279,
+    "timeWeek": 128,
+    "timeMonth": 143,
+    "timeYear": 151,
     "dailyMinutesDown": {
       "2022-07-01": 40
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 162,
-    "timeDay": 46,
-    "timeWeek": 184,
-    "timeMonth": 162,
-    "timeYear": 162,
+    "time": 163,
+    "timeDay": 215,
+    "timeWeek": 198,
+    "timeMonth": 157,
+    "timeYear": 163,
     "dailyMinutesDown": {
       "2022-07-01": 25
     }
@@ -90,11 +90,11 @@
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 139,
-    "timeDay": 52,
-    "timeWeek": 139,
-    "timeMonth": 139,
-    "timeYear": 139,
+    "time": 142,
+    "timeDay": 234,
+    "timeWeek": 156,
+    "timeMonth": 137,
+    "timeYear": 142,
     "dailyMinutesDown": {
       "2022-07-01": 25
     }
@@ -110,11 +110,11 @@
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 174,
-    "timeDay": 57,
-    "timeWeek": 224,
-    "timeMonth": 174,
-    "timeYear": 174,
+    "time": 175,
+    "timeDay": 213,
+    "timeWeek": 241,
+    "timeMonth": 167,
+    "timeYear": 175,
     "dailyMinutesDown": {
       "2022-07-01": 25
     }
@@ -130,11 +130,11 @@
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 143,
-    "timeDay": 68,
-    "timeWeek": 153,
-    "timeMonth": 143,
-    "timeYear": 143,
+    "time": 147,
+    "timeDay": 286,
+    "timeWeek": 182,
+    "timeMonth": 140,
+    "timeYear": 147,
     "dailyMinutesDown": {
       "2022-07-01": 40
     }
@@ -145,16 +145,16 @@
     "icon": "https://favicons.githubusercontent.com/oriente.imedicalcloud.net",
     "slug": "oriente",
     "status": "up",
-    "uptime": "99.64%",
+    "uptime": "99.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
-    "time": 143,
-    "timeDay": 49,
-    "timeWeek": 137,
-    "timeMonth": 143,
-    "timeYear": 143,
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.65%",
+    "time": 146,
+    "timeDay": 264,
+    "timeWeek": 161,
+    "timeMonth": 141,
+    "timeYear": 146,
     "dailyMinutesDown": {
       "2022-07-01": 25,
       "2022-06-14": 127
@@ -171,11 +171,11 @@
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 128,
-    "timeDay": 51,
-    "timeWeek": 107,
-    "timeMonth": 128,
-    "timeYear": 128,
+    "time": 130,
+    "timeDay": 212,
+    "timeWeek": 122,
+    "timeMonth": 123,
+    "timeYear": 130,
     "dailyMinutesDown": {
       "2022-07-01": 40
     }
@@ -191,11 +191,11 @@
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 152,
-    "timeDay": 89,
-    "timeWeek": 167,
-    "timeMonth": 152,
-    "timeYear": 152,
+    "time": 153,
+    "timeDay": 211,
+    "timeWeek": 186,
+    "timeMonth": 146,
+    "timeYear": 153,
     "dailyMinutesDown": {
       "2022-07-01": 25
     }
@@ -212,9 +212,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 473,
-    "timeDay": 117,
-    "timeWeek": 206,
-    "timeMonth": 473,
+    "timeDay": 499,
+    "timeWeek": 254,
+    "timeMonth": 474,
     "timeYear": 473,
     "dailyMinutesDown": {}
   }
