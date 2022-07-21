@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/axacolpatria.imedicalcloud.net",
     "slug": "axa",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "99.93%",
-    "time": 165,
-    "timeDay": 264,
-    "timeWeek": 209,
-    "timeMonth": 157,
-    "timeYear": 165,
+    "uptimeYear": "99.94%",
+    "time": 163,
+    "timeDay": 54,
+    "timeWeek": 205,
+    "timeMonth": 155,
+    "timeYear": 163,
     "dailyMinutesDown": {
       "2022-07-01": 40
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
-    "time": 173,
-    "timeDay": 241,
-    "timeWeek": 215,
-    "timeMonth": 171,
-    "timeYear": 173,
+    "time": 170,
+    "timeDay": 51,
+    "timeWeek": 210,
+    "timeMonth": 170,
+    "timeYear": 170,
     "dailyMinutesDown": {
       "2022-07-01": 25
     }
@@ -45,16 +45,16 @@
     "icon": "https://favicons.githubusercontent.com/comfamiliar.imedicalcloud.net",
     "slug": "comfamiliar",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "99.93%",
-    "time": 175,
-    "timeDay": 245,
+    "uptimeYear": "99.94%",
+    "time": 173,
+    "timeDay": 72,
     "timeWeek": 182,
     "timeMonth": 174,
-    "timeYear": 175,
+    "timeYear": 173,
     "dailyMinutesDown": {
       "2022-07-01": 40
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
-    "time": 166,
-    "timeDay": 223,
-    "timeWeek": 177,
+    "time": 164,
+    "timeDay": 54,
+    "timeWeek": 172,
     "timeMonth": 165,
-    "timeYear": 166,
+    "timeYear": 164,
     "dailyMinutesDown": {
       "2022-07-01": 25
     }
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
-    "time": 159,
-    "timeDay": 271,
+    "time": 157,
+    "timeDay": 73,
     "timeWeek": 170,
-    "timeMonth": 163,
-    "timeYear": 159,
+    "timeMonth": 162,
+    "timeYear": 157,
     "dailyMinutesDown": {
       "2022-07-01": 25
     }
@@ -110,11 +110,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
-    "time": 173,
-    "timeDay": 210,
-    "timeWeek": 162,
+    "time": 170,
+    "timeDay": 59,
+    "timeWeek": 161,
     "timeMonth": 174,
-    "timeYear": 173,
+    "timeYear": 170,
     "dailyMinutesDown": {
       "2022-07-01": 25
     }
@@ -125,16 +125,16 @@
     "icon": "https://favicons.githubusercontent.com/occ.imedicalcloud.net",
     "slug": "occ",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "99.93%",
-    "time": 153,
-    "timeDay": 228,
-    "timeWeek": 168,
+    "uptimeYear": "99.94%",
+    "time": 151,
+    "timeDay": 45,
+    "timeWeek": 162,
     "timeMonth": 151,
-    "timeYear": 153,
+    "timeYear": 151,
     "dailyMinutesDown": {
       "2022-07-01": 40
     }
@@ -145,16 +145,16 @@
     "icon": "https://favicons.githubusercontent.com/oriente.imedicalcloud.net",
     "slug": "oriente",
     "status": "up",
-    "uptime": "99.75%",
+    "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.75%",
-    "time": 149,
-    "timeDay": 261,
-    "timeWeek": 164,
-    "timeMonth": 144,
-    "timeYear": 149,
+    "uptimeYear": "99.76%",
+    "time": 147,
+    "timeDay": 46,
+    "timeWeek": 158,
+    "timeMonth": 143,
+    "timeYear": 147,
     "dailyMinutesDown": {
       "2022-07-01": 25,
       "2022-06-14": 127
@@ -166,16 +166,16 @@
     "icon": "https://favicons.githubusercontent.com/santaana.imedicalcloud.net",
     "slug": "santa-ana",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "99.93%",
-    "time": 137,
-    "timeDay": 212,
-    "timeWeek": 165,
+    "uptimeYear": "99.94%",
+    "time": 135,
+    "timeDay": 39,
+    "timeWeek": 158,
     "timeMonth": 133,
-    "timeYear": 137,
+    "timeYear": 135,
     "dailyMinutesDown": {
       "2022-07-01": 40
     }
@@ -191,11 +191,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
-    "time": 157,
-    "timeDay": 209,
-    "timeWeek": 178,
-    "timeMonth": 155,
-    "timeYear": 157,
+    "time": 155,
+    "timeDay": 86,
+    "timeWeek": 177,
+    "timeMonth": 153,
+    "timeYear": 155,
     "dailyMinutesDown": {
       "2022-07-01": 25
     }
@@ -211,11 +211,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 436,
-    "timeDay": 362,
-    "timeWeek": 340,
-    "timeMonth": 309,
-    "timeYear": 436,
+    "time": 434,
+    "timeDay": 324,
+    "timeWeek": 348,
+    "timeMonth": 306,
+    "timeYear": 434,
     "dailyMinutesDown": {}
   }
 ]
