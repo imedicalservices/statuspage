@@ -11,9 +11,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.93%",
     "time": 156,
-    "timeDay": 75,
-    "timeWeek": 128,
-    "timeMonth": 152,
+    "timeDay": 147,
+    "timeWeek": 113,
+    "timeMonth": 149,
     "timeYear": 156,
     "dailyMinutesDown": {
       "2022-08-01": 24,
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 157,
-    "timeDay": 48,
-    "timeWeek": 118,
-    "timeMonth": 147,
+    "timeDay": 155,
+    "timeWeek": 105,
+    "timeMonth": 145,
     "timeYear": 157,
     "dailyMinutesDown": {
       "2022-07-01": 25
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 162,
-    "timeDay": 75,
-    "timeWeek": 125,
-    "timeMonth": 148,
+    "timeDay": 138,
+    "timeWeek": 114,
+    "timeMonth": 145,
     "timeYear": 162,
     "dailyMinutesDown": {
       "2022-07-01": 40
@@ -72,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 151,
-    "timeDay": 61,
-    "timeWeek": 125,
-    "timeMonth": 136,
+    "timeDay": 130,
+    "timeWeek": 113,
+    "timeMonth": 134,
     "timeYear": 151,
     "dailyMinutesDown": {
       "2022-07-01": 25
@@ -92,9 +92,9 @@
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.87%",
     "time": 146,
-    "timeDay": 72,
-    "timeWeek": 122,
-    "timeMonth": 133,
+    "timeDay": 112,
+    "timeWeek": 110,
+    "timeMonth": 131,
     "timeYear": 146,
     "dailyMinutesDown": {
       "2022-08-08": 92,
@@ -113,9 +113,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 153,
-    "timeDay": 45,
-    "timeWeek": 106,
-    "timeMonth": 126,
+    "timeDay": 137,
+    "timeWeek": 96,
+    "timeMonth": 125,
     "timeYear": 153,
     "dailyMinutesDown": {
       "2022-07-01": 25
@@ -132,11 +132,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 140,
-    "timeDay": 31,
-    "timeWeek": 105,
-    "timeMonth": 129,
-    "timeYear": 140,
+    "time": 139,
+    "timeDay": 106,
+    "timeWeek": 90,
+    "timeMonth": 125,
+    "timeYear": 139,
     "dailyMinutesDown": {
       "2022-07-01": 40
     }
@@ -147,15 +147,15 @@
     "icon": "https://favicons.githubusercontent.com/oriente.imedicalcloud.net",
     "slug": "oriente",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.83%",
+    "uptimeYear": "99.84%",
     "time": 141,
-    "timeDay": 42,
-    "timeWeek": 112,
-    "timeMonth": 134,
+    "timeDay": 145,
+    "timeWeek": 102,
+    "timeMonth": 133,
     "timeYear": 141,
     "dailyMinutesDown": {
       "2022-07-01": 25,
@@ -173,11 +173,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 124,
-    "timeDay": 62,
-    "timeWeek": 106,
-    "timeMonth": 117,
-    "timeYear": 124,
+    "time": 125,
+    "timeDay": 148,
+    "timeWeek": 99,
+    "timeMonth": 116,
+    "timeYear": 125,
     "dailyMinutesDown": {
       "2022-07-01": 40
     }
@@ -194,9 +194,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 142,
-    "timeDay": 70,
-    "timeWeek": 116,
-    "timeMonth": 130,
+    "timeDay": 150,
+    "timeWeek": 108,
+    "timeMonth": 129,
     "timeYear": 142,
     "dailyMinutesDown": {
       "2022-07-01": 25
@@ -213,11 +213,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 392,
-    "timeDay": 140,
-    "timeWeek": 270,
+    "time": 391,
+    "timeDay": 337,
+    "timeWeek": 266,
     "timeMonth": 302,
-    "timeYear": 392,
+    "timeYear": 391,
     "dailyMinutesDown": {}
   }
 ]
