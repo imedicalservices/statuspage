@@ -1,7 +1,7 @@
 url: https://oriente.imedicalcloud.net/$SECRET_ENDPOINT_IMEDICAL
-status: up
-code: 200
-responseTime: 212
-lastUpdated: 2023-07-25T23:05:35.025Z
+status: down
+code: 503
+responseTime: 223
+lastUpdated: 2023-07-26T15:35:30.897Z
 startTime: Tue Jun 07 2022 20:53:25 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
