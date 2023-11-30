@@ -1,7 +1,7 @@
 url: https://consultorios.imedicalcloud.net/$SECRET_ENDPOINT_IMEDICAL
 status: up
 code: 200
-responseTime: 148
-lastUpdated: 2023-11-29T23:07:42.105Z
+responseTime: 125
+lastUpdated: 2023-11-30T23:08:16.121Z
 startTime: 2022-06-07T20:53:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
