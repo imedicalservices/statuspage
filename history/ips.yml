@@ -1,7 +1,7 @@
 url: https://ips.imedicalcloud.net/$SECRET_ENDPOINT_IMEDICAL
-status: down
-code: 503
-responseTime: 61
-lastUpdated: 2023-12-14T03:32:13.786Z
+status: up
+code: 200
+responseTime: 185
+lastUpdated: 2023-12-14T03:44:36.763Z
 startTime: 2022-06-07T20:53:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
