@@ -1,7 +1,7 @@
 url: https://axacolpatria.imedicalcloud.net/$SECRET_ENDPOINT_IMEDICAL
-status: up
-code: 200
-responseTime: 55
-lastUpdated: 2024-02-25T23:07:41.774Z
+status: down
+code: 503
+responseTime: 17
+lastUpdated: 2024-02-26T01:19:54.549Z
 startTime: 2022-06-07T15:58:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
