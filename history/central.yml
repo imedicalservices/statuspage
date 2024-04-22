@@ -1,7 +1,7 @@
 url: https://central.imedicalcloud.net/$SECRET_ENDPOINT_IMEDICAL
-status: up
-code: 200
-responseTime: 222
-lastUpdated: 2024-04-21T23:08:19.486Z
+status: down
+code: 503
+responseTime: 6106
+lastUpdated: 2024-04-22T02:43:02.719Z
 startTime: 2022-06-07T20:53:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
