@@ -1,7 +1,7 @@
 url: $SECRET_TELEMEDICINE_ENDPOINT
 status: up
 code: 200
-responseTime: 87
-lastUpdated: 2024-04-22T23:07:40.693Z
+responseTime: 323
+lastUpdated: 2024-04-23T23:08:02.022Z
 startTime: 2022-06-07T20:53:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
