@@ -1,7 +1,7 @@
 url: https://santaana.imedicalcloud.net/$SECRET_ENDPOINT_IMEDICAL
-status: down
-code: 503
-responseTime: 362
-lastUpdated: 2024-10-02T22:47:52.347Z
+status: up
+code: 200
+responseTime: 228
+lastUpdated: 2024-10-02T23:00:03.953Z
 startTime: 2022-06-07T20:53:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
