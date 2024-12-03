@@ -1,7 +1,7 @@
 url: https://occ.imedicalcloud.net/$SECRET_ENDPOINT_IMEDICAL
-status: up
-code: 200
-responseTime: 316
-lastUpdated: 2024-12-02T23:11:51.757Z
+status: down
+code: 503
+responseTime: 340
+lastUpdated: 2024-12-03T03:51:13.265Z
 startTime: 2022-06-07T20:53:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
