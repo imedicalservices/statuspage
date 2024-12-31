@@ -1,7 +1,7 @@
 url: https://universidades.imedicalcloud.net/$SECRET_ENDPOINT_IMEDICAL
-status: up
-code: 200
-responseTime: 124
-lastUpdated: 2024-12-30T23:09:13.171Z
+status: down
+code: 503
+responseTime: 208
+lastUpdated: 2024-12-31T03:43:44.572Z
 startTime: 2022-06-07T20:53:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
