@@ -1,7 +1,7 @@
 url: https://norte.imedicalcloud.net/$SECRET_ENDPOINT_IMEDICAL
-status: down
-code: 503
-responseTime: 128
-lastUpdated: 2025-06-07T14:57:50.129Z
+status: up
+code: 200
+responseTime: 178
+lastUpdated: 2025-06-07T15:25:46.884Z
 startTime: 2022-06-07T20:53:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
