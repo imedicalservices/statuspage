@@ -11,10 +11,10 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 185,
-    "timeDay": 263,
-    "timeWeek": 235,
-    "timeMonth": 205,
-    "timeYear": 173,
+    "timeDay": 256,
+    "timeWeek": 244,
+    "timeMonth": 207,
+    "timeYear": 174,
     "dailyMinutesDown": {
       "2026-01-08": 46
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 181,
-    "timeDay": 312,
-    "timeWeek": 219,
-    "timeMonth": 204,
-    "timeYear": 191,
+    "time": 182,
+    "timeDay": 340,
+    "timeWeek": 238,
+    "timeMonth": 209,
+    "timeYear": 192,
     "dailyMinutesDown": {
       "2025-02-04": 22
     }
@@ -50,10 +50,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.96%",
-    "time": 177,
-    "timeDay": 264,
-    "timeWeek": 200,
-    "timeMonth": 201,
+    "time": 178,
+    "timeDay": 205,
+    "timeWeek": 207,
+    "timeMonth": 202,
     "timeYear": 186,
     "dailyMinutesDown": {
       "2026-01-08": 46,
@@ -74,10 +74,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.98%",
-    "time": 175,
-    "timeDay": 238,
-    "timeWeek": 191,
-    "timeMonth": 253,
+    "time": 176,
+    "timeDay": 231,
+    "timeWeek": 206,
+    "timeMonth": 255,
     "timeYear": 171,
     "dailyMinutesDown": {
       "2026-01-08": 46,
@@ -96,9 +96,9 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.98%",
     "time": 151,
-    "timeDay": 235,
-    "timeWeek": 185,
-    "timeMonth": 179,
+    "timeDay": 214,
+    "timeWeek": 199,
+    "timeMonth": 180,
     "timeYear": 156,
     "dailyMinutesDown": {
       "2026-01-08": 46,
@@ -118,10 +118,10 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.98%",
     "time": 179,
-    "timeDay": 214,
-    "timeWeek": 208,
-    "timeMonth": 183,
-    "timeYear": 157,
+    "timeDay": 208,
+    "timeWeek": 209,
+    "timeMonth": 184,
+    "timeYear": 158,
     "dailyMinutesDown": {
       "2026-01-08": 46,
       "2025-09-24": 44,
@@ -140,9 +140,9 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.96%",
     "time": 155,
-    "timeDay": 235,
-    "timeWeek": 204,
-    "timeMonth": 186,
+    "timeDay": 186,
+    "timeWeek": 207,
+    "timeMonth": 187,
     "timeYear": 159,
     "dailyMinutesDown": {
       "2026-01-08": 46,
@@ -164,10 +164,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 146,
-    "timeDay": 336,
-    "timeWeek": 199,
+    "timeDay": 220,
+    "timeWeek": 215,
     "timeMonth": 186,
-    "timeYear": 151,
+    "timeYear": 152,
     "dailyMinutesDown": {
       "2025-10-21": 15
     }
@@ -184,10 +184,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 146,
-    "timeDay": 228,
+    "timeDay": 210,
     "timeWeek": 202,
-    "timeMonth": 184,
-    "timeYear": 150,
+    "timeMonth": 185,
+    "timeYear": 151,
     "dailyMinutesDown": {}
   },
   {
@@ -202,9 +202,9 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.98%",
     "time": 157,
-    "timeDay": 259,
-    "timeWeek": 185,
-    "timeMonth": 170,
+    "timeDay": 223,
+    "timeWeek": 200,
+    "timeMonth": 172,
     "timeYear": 167,
     "dailyMinutesDown": {
       "2026-01-08": 46,
@@ -217,18 +217,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "teleconsulta",
     "status": "down",
-    "uptime": "62.79%",
+    "uptime": "62.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 384,
-    "timeDay": 464,
-    "timeWeek": 683,
-    "timeMonth": 634,
+    "timeDay": 459,
+    "timeWeek": 702,
+    "timeMonth": 635,
     "timeYear": 385,
     "dailyMinutesDown": {
-      "2026-01-28": 104,
+      "2026-01-29": 116,
+      "2026-01-28": 1440,
       "2026-01-27": 1440,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
@@ -591,8 +592,7 @@
       "2025-02-02": 1440,
       "2025-02-01": 1440,
       "2025-01-31": 1440,
-      "2025-01-30": 1440,
-      "2025-01-29": 1440
+      "2025-01-30": 1440
     }
   }
 ]
