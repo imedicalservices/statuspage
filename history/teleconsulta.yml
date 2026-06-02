@@ -1,7 +1,7 @@
 url: $SECRET_TELEMEDICINE_ENDPOINT
 status: down
 code: 401
-responseTime: 218
-lastUpdated: 2026-05-31T23:58:09.764Z
+responseTime: 201
+lastUpdated: 2026-06-02T00:06:15.827Z
 startTime: 2022-06-07T20:53:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
