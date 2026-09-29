@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 179,
-    "timeDay": 311,
-    "timeWeek": 209,
-    "timeMonth": 183,
+    "timeDay": 217,
+    "timeWeek": 205,
+    "timeMonth": 192,
     "timeYear": 182,
     "dailyMinutesDown": {
       "2026-01-08": 46,
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 186,
-    "timeDay": 248,
-    "timeWeek": 198,
-    "timeMonth": 174,
+    "timeDay": 175,
+    "timeWeek": 187,
+    "timeMonth": 178,
     "timeYear": 189,
     "dailyMinutesDown": {}
   },
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 184,
-    "timeDay": 300,
-    "timeWeek": 204,
-    "timeMonth": 171,
+    "timeDay": 246,
+    "timeWeek": 205,
+    "timeMonth": 179,
     "timeYear": 187,
     "dailyMinutesDown": {
       "2025-10-20": 55,
@@ -73,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 167,
-    "timeDay": 305,
-    "timeWeek": 212,
-    "timeMonth": 161,
+    "timeDay": 169,
+    "timeWeek": 201,
+    "timeMonth": 169,
     "timeYear": 169,
     "dailyMinutesDown": {
       "2026-01-08": 46
@@ -93,9 +93,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 162,
-    "timeDay": 237,
-    "timeWeek": 207,
-    "timeMonth": 158,
+    "timeDay": 224,
+    "timeWeek": 200,
+    "timeMonth": 169,
     "timeYear": 164,
     "dailyMinutesDown": {
       "2025-12-19": 42,
@@ -109,19 +109,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/norte.imedicalcloud.net.ico",
     "slug": "norte",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 161,
-    "timeDay": 235,
-    "timeWeek": 192,
-    "timeMonth": 162,
+    "uptimeYear": "100.00%",
+    "time": 162,
+    "timeDay": 203,
+    "timeWeek": 191,
+    "timeMonth": 170,
     "timeYear": 163,
-    "dailyMinutesDown": {
-      "2026-01-08": 46
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "OCC",
@@ -129,21 +127,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/occ.imedicalcloud.net.ico",
     "slug": "occ",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "100.00%",
     "time": 159,
-    "timeDay": 235,
-    "timeWeek": 200,
-    "timeMonth": 160,
+    "timeDay": 137,
+    "timeWeek": 180,
+    "timeMonth": 165,
     "timeYear": 157,
-    "dailyMinutesDown": {
-      "2025-10-20": 55,
-      "2025-11-06": 74,
-      "2026-01-08": 46
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Oriente",
@@ -157,10 +151,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 153,
-    "timeDay": 211,
-    "timeWeek": 176,
-    "timeMonth": 152,
-    "timeYear": 156,
+    "timeDay": 139,
+    "timeWeek": 161,
+    "timeMonth": 156,
+    "timeYear": 155,
     "dailyMinutesDown": {
       "2025-10-21": 15
     }
@@ -177,9 +171,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 153,
-    "timeDay": 211,
-    "timeWeek": 185,
-    "timeMonth": 161,
+    "timeDay": 145,
+    "timeWeek": 172,
+    "timeMonth": 166,
     "timeYear": 152,
     "dailyMinutesDown": {}
   },
@@ -195,9 +189,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 146,
-    "timeDay": 209,
-    "timeWeek": 174,
-    "timeMonth": 142,
+    "timeDay": 130,
+    "timeWeek": 158,
+    "timeMonth": 149,
     "timeYear": 148,
     "dailyMinutesDown": {
       "2026-01-08": 46
@@ -209,16 +203,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "teleconsulta",
     "status": "down",
-    "uptime": "65.19%",
+    "uptime": "65.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "52.15%",
+    "uptimeYear": "52.43%",
     "time": 358,
-    "timeDay": 294,
-    "timeWeek": 233,
-    "timeMonth": 194,
-    "timeYear": 376,
+    "timeDay": 141,
+    "timeWeek": 212,
+    "timeMonth": 202,
+    "timeYear": 375,
     "dailyMinutesDown": {
       "2026-03-21": 1143,
       "2026-03-20": 1440,
@@ -392,8 +386,7 @@
       "2025-10-03": 1440,
       "2025-10-02": 1440,
       "2025-10-01": 1440,
-      "2025-09-30": 1440,
-      "2025-09-29": 1440
+      "2025-09-30": 1440
     }
   }
 ]
